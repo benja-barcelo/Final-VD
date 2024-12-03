@@ -38,7 +38,7 @@
 </script>
 
 <section id="header">
-  <img src="./public/images/NBA-Logo.png" alt="NBA Logo" class="logo">
+  <img src="public/images/NBA-Logo.png" alt="NBA Logo" class="logo">
   <h1 id="main_title">
     La evolución del triple en la NBA en la última década
   </h1>
@@ -74,11 +74,10 @@
   <p class="final_parrafo">
     Visualzación realizada por Benjamín Barceló
   </p>
-<img src="./public/images/ditella.jpg" alt="UTDT Logo" class="utdt-logo">
+<img src="public/images/ditella.jpg" alt="UTDT Logo" class="utdt-logo">
 
 </div>
 
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
 
 
 <style>
