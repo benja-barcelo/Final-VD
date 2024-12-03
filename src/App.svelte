@@ -38,9 +38,9 @@
 </script>
 
 <section id="header">
-  <img src="/public/images/NBA-Logo.png" alt="NBA Logo" class="logo">
+  <img src="public/images/NBA-Logo.png" alt="NBA Logo" class="logo">
   <h1 id="main_title">
-    La evoluciónn del triple en la NBA en la última década
+    La evolución del triple en la NBA en la última década
   </h1>
 </section>
 
