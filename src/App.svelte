@@ -72,7 +72,7 @@
 
 <div class="final_container">
   <p class="final_parrafo">
-    Visualzación realizada por Benjamín Barceló
+    Visualización realizada por Benjamín Barceló
   </p>
 <img src="/images/ditella.jpg" alt="UTDT Logo" class="utdt-logo">
 
